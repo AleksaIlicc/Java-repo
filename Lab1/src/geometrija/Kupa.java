@@ -8,7 +8,7 @@ public class Kupa extends Telo{
 	}
 
 	public double zapremina() {
-		return (1/3)*h*r*r*Math.PI;
+		return (1.0/3)*h*r*r*Math.PI;
 	}
 
 }
